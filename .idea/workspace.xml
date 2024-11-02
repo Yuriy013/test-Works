@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b19cf56f-3823-4ae8-a8b0-bf2a1f038621" name="Changes" comment="контрольна робота">
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/examen.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/Check.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/Christmas-tree.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/boys.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/card invitation.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/computer.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/estrella.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/foto.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/hands.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/icon_facebook.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/icon_instagram.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/icon_telegram.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/icon_twiter.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/image-citi.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/image-computer.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/menu.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/mockup.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/peage.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/picture.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/student.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/img/two cards.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/index" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2oIJirY4O56tNtN7XG6j0eJXg8x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/yuriy/OneDrive/Escritorio/HTML-CSS/index/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yuriy\OneDrive\Escritorio\HTML-CSS\index\img" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b19cf56f-3823-4ae8-a8b0-bf2a1f038621" name="Changes" comment="" />
+      <created>1730551299731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730551299731</updated>
+      <workItem from="1730551300663" duration="7250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="контрольна робота" />
+    <option name="LAST_COMMIT_MESSAGE" value="контрольна робота" />
+  </component>
+</project>
